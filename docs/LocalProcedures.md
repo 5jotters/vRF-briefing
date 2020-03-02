@@ -1,6 +1,4 @@
-VRF
-
-LOCAL PROCEDURES
+# VIRTUAL RED FLAG: LOCAL PROCEDURES
 
 **VER 1.1 DICIEMBRE 2019**
 
@@ -10,19 +8,19 @@ LOCAL PROCEDURES
 
 **TABLE OF CONTENTS**
 
-1.  **START-UP PROC  .............................................................  3**
+1.  **START-UP PROC 
 
-1.  **TAXI ........................................................................................  3**
+1.  **TAXI
 
-1.  **DEPARTURE............................................................................... 3**
+1.  **DEPARTURE
 
-1.  **ROUTE........................................................................................ 3**
+1.  **ROUTE
 
-1.  **RECOVERY   ......................................................................  4**
+1.  **RECOVERY
 
-1.  **ANNEX A. AAR ......................................................................  5**
+1.  **ANNEX A. AAR
 
-1.  **ANNEX B. FREQUENCIES ....................................................  6**
+1.  **ANNEX B. FREQUENCIES
 
 1.  **START-UP**
 
@@ -42,7 +40,7 @@ When leader starts taxing will communicate in interflight freq: "Spartan 1, taxi
 
 All formations will hold the active arming zone waiting their respective take off times.
 
-1.  **DEPARTURE**
+2.  **DEPARTURE**
 
 Once formations cleared for departure will enter and take off depending on Airfield weather conditions. (DREAM ONE DEPARTURE)
 
@@ -52,13 +50,13 @@ Once formations cleared for departure will enter and take off depending on Airfi
 
 When Take Off procedure complete and airborne, TWR controller will clear the formations to change to Boom Freq. (Take Care, no human controller at this time, will use DCS normal fuel request and refueling procedure).
 
-1.  **RUTA**
+3.  **RUTA**
 
 Once airbone formations will proceed direct to waypoint A1: HAREM, B2: JUNNO. This point will be common WPT for all participants and will be also ARCP for formations refueling from southern tanker (TEXACO KC-135 AAR SOUTH) 19.000 FT. AND northern tanker (ARCO KC-135MPRS NORTH) 18.000 FT. Once with visual contact with tanker, receivers with climb for rejoining and proceed echelon left with tanker
 
 After refueling, formations will proceed to assigned Holding/Push WPT, normally WPT 4 (D4) HOLD and WPT 5 (E5) PUSH, at assigned COMMCARD altitudes. On the way to holding/push formations with contact human GCI for check-in and tactical flight. MANDATORY CALL FOR ALL FORMATIONS when one minute to reach holding/push point for deconfliction. For instance: "Lobo, 1 minute to D4, maintaining FL230".
 
-1.  **RECOVERY**
+4.  **RECOVERY**
 
 On the way back and crossing FLOT heading home all formations will contact TWR in 327.000 UHF and will ask for weather, landing data and will request type of approach.
 
@@ -98,9 +96,8 @@ Flight Leads will be responsible of separation till to be under ATC control. If 
 
  Only at the right moment we are the closed formation to the tanker, it means we are next for refueling, will request refuel to the tanker. Once refueling complete, refueled aircraft will proceed to right echelon with tanker and will end DCS procedure making call in DCS tanker menu, ABORT REFUEL.
 
- This is an individual procedure that everybody must accomplish. Please maintain concentration up to this point and make correct calls.
+This is an individual procedure that everybody must accomplish. Please maintain concentration up to this point and make correct calls.
 
-**![](file:///C:/Users/Jose/AppData/Local/Temp/msohtmlclip1/01/clip_image005.gif)**
 
 **ANNEX B. FREQUENCIES.**
 
