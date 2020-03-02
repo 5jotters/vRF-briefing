@@ -23,7 +23,7 @@
 7.  ANNEX B. FREQUENCIES
 
 
-1.  **START-UP**
+### 1.  **START-UP**
 
 All participants will start up engines stick to each type of aircraft normal procedures. Normally will use this radio setting procedure for taxi, departure, GCI and also interflight COMMS:
 
