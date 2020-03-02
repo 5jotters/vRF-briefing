@@ -12,5 +12,5 @@ The Red force threats includes other human virtual fighter pilots flying as agre
 ![](Images/LogovRF.JPG)
 
 
-![vRF Spins](docs/spins.md) | ![vRF Local Procedures](docs/LocalProcedures.md)
+[vRF Spins](docs/spins.md) | [vRF Local Procedures](docs/LocalProcedures.md)
 
