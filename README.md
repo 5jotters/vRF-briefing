@@ -4,5 +4,6 @@ Wellcome to the virtual Red Flag pages. The purpose of this site is to support t
 ![](https://github.com/5jotters/vRF-briefing/blob/master/Images/LogovRF.JPG)
 
 ## vRF Missions
-## vRF Spins
-## vRF Local Procedures
+![## vRF Spins](docs/spins.md)
+![## vRF Local Procedures](docs/LocalProcedures.md)
+
