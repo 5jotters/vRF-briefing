@@ -11,6 +11,21 @@ The Red force threats includes other human virtual fighter pilots flying as agre
 
 ![](Images/LogovRF.JPG)
 
+## Important documents for aircrews
+* [External applications](./docs/external.md)
 
-[vRF Spins](docs/spins.md) | [vRF Local Procedures](docs/LocalProcedures.md)
+* [vRF Local Procedures](docs/LocalProcedures.md)
+
+* [CombatFlite file for planning](./docs/vRFCombatFlite.cf)
+
+* [Red Force Doctrine](./docs/RedDoctrine.md)
+
+* [Radio frequencies](./docs/freqs.md)
+
+* [vRF Spins](docs/spins.md)
+
+* [Scenario](./docs/scenario.md)
+
+* [FLIP NTTR](http://www.476vfightergroup.com/downloads.php?do=file&id=405)
+
 
