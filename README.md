@@ -16,7 +16,7 @@ The Red force threats includes other human virtual fighter pilots flying as agre
 
 * [vRF Local Procedures](docs/LocalProcedures.md)
 
-* [CombatFlite file for planning](./files/vRFCombatFlite.cf)
+* [CombatFlite file for planning](files/vRFCombatFlite.cf)
 
 * [Red Force Doctrine](./docs/RedDoctrine.md)
 
