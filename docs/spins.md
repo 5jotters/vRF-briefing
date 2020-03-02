@@ -4,7 +4,7 @@ SPINS
 
 **VER 1.0 DEC 2019**
 
-![](Images/LogovRF.JPG)
+![](../Images/LogovRF.JPG)
 
 TABLE OF CONTENTS
 
