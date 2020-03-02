@@ -1,1 +1,1 @@
-![](../images/vrf_flot.jpg)
+![](../Images/vrf_flot.jpg)
