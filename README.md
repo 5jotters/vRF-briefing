@@ -3,5 +3,5 @@ Wellcome to the virtual Red Flag pages. The purpose of this site is to support t
 
 ![](/Images/LogovRF.JPG)
 
-![vRF Spins](/vRF-briefing/docs/spins.html) | ![vRF Local Procedures](/vRF-briefing/docs/LocalProcedures.html)
+![vRF Spins](./docs/spins.html) | ![vRF Local Procedures](./docs/LocalProcedures.html)
 
