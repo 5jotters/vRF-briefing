@@ -22,7 +22,7 @@
 
 1.  ANNEX B. FREQUENCIES
 
-1.  START-UP
+## 1. START-UP
 
 All participants will start up engines stick to each type of aircraft normal procedures. Normally will use this radio setting procedure for taxi, departure, GCI and also interflight COMMS:
 
@@ -32,7 +32,7 @@ All participants will start up engines stick to each type of aircraft normal pro
 
 All formations will request weather info and departure data on ATIS: 270.100 and tower freq 327.000 UHF/ 132.550 VHF.
 
-1.  **TAXI**
+## 1.  TAXI
 
 Once formation ready and within taxi times assigned it will be asked to TWR controller for taxing to runway in use. It one formation with problems at start up then following formation will ask for taxing to holding point of runway in use in order to avoid taxi collapsing.
 
