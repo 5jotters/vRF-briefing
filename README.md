@@ -14,7 +14,7 @@ The Red force threats includes other human virtual fighter pilots flying as agre
 ## Important documents for aircrews
 * [External applications](./docs/external.md)
 
-* [vRF Local Procedures](docs/LocalProcedures.md)
+* [vRF Local Procedures](files/LocalProcedures.pdf)
 
 * [CombatFlite file for planning](files/vRFCombatFlite.cf)
 
@@ -22,7 +22,7 @@ The Red force threats includes other human virtual fighter pilots flying as agre
 
 * [Radio frequencies](./docs/freqs.md)
 
-* [vRF Spins](docs/spins.md)
+* [vRF Spins](files/spins.pdf)
 
 * [Scenario](./docs/scenario.md)
 
