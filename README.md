@@ -26,7 +26,7 @@ The Red force threats includes other human virtual fighter pilots flying as agre
 
 * [Scenario](./docs/scenario.md)
 
-* [FLIP NTTR](files/7476vFGFlightInfoPubNevada.pdf)
+* [FLIP NTTR](files/476vFGFlightInfoPubNevada.pdf)
 
 ## Missions
 
