@@ -1,28 +1,28 @@
 # VIRTUAL RED FLAG: LOCAL PROCEDURES
 
-**VER 1.1 DICIEMBRE 2019**
+## VER 1.1 DICIEMBRE 2019
 
 ![](../Images/LogovRF.JPG)
 
 **This issue belongs to (rank/name).............................................**
 
-**TABLE OF CONTENTS**
+## TABLE OF CONTENTS
 
-1.  **START-UP PROC 
+1.  START-UP PROC 
 
-1.  **TAXI
+1.  TAXI
 
-1.  **DEPARTURE
+1.  DEPARTURE
 
-1.  **ROUTE
+1.  ROUTE
 
-1.  **RECOVERY
+1.  RECOVERY
 
-1.  **ANNEX A. AAR
+1.  ANNEX A. AAR
 
-1.  **ANNEX B. FREQUENCIES
+1.  ANNEX B. FREQUENCIES
 
-1.  **START-UP**
+1.  START-UP
 
 All participants will start up engines stick to each type of aircraft normal procedures. Normally will use this radio setting procedure for taxi, departure, GCI and also interflight COMMS:
 
