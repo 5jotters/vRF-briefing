@@ -47,7 +47,7 @@ All formations will hold the active arming zone waiting their respective take of
 
 Once formations cleared for departure will enter and take off depending on Airfield weather conditions.
 
-● VMC: NORTH FLEX departure in use. Take Off will be 1+1 at 10" spacing with visual rejoin when airborne. Afterwards will proceed to first route waypoint. This one will be exactly the same for all players in the package.
+● VMC: NORTH FLEX / DREAM 3 departure in use. Take Off will be 1+1 at 10" spacing with visual rejoin when airborne. Afterwards will proceed to first route waypoint. This one will be exactly the same for all players in the package.
  ![](../Images/FlexTurnout.jpg)
  
  ![](../Images/FlexTurnoutRWY21.jpg)
