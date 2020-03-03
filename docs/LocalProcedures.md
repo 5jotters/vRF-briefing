@@ -55,7 +55,8 @@ Once formations cleared for departure will enter and take off depending on Airfi
  ![](../Images/FlexTurnoutRWY21.jpg)
  
 ● IMC: DREAM 6 departure in use. Take Off will be 1+1 at 20" spacing. Wingman will maintain 2 NM trail formation till rejoin in VMC above clouds. Afterwards will proceed to first route waypoint. This one will be exactly the same for all players in the package.
-[](../Images/Dream6.jpg)
+
+![](../Images/Dream6.jpg)
 
 When Take Off procedure complete and airborne, TWR controller will clear the formations to change to Boom Freq. (Take Care, no human controller at this time, will use DCS normal fuel request and refueling procedure).
 
