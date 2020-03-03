@@ -25,13 +25,15 @@
 
 ### 1.  **START-UP**
 
-All participants will start up engines stick to each type of aircraft normal procedures. Normally will use this radio setting procedure for taxi, departure, GCI and also interflight COMMS:
+All participants will start up engines stick to each type of aircraft normal procedures. Normally will use this radio setting procedure for taxi, departure, GCI and also interflight COMMS. All platforms should adhere to the following PRESET plan:
 
-● TWR: Once in cockpit we set Freq 327.000 UHF/132.550 VHF for ATC control according to CommCard.
+● ATIS: PRESET #1 270.100 UHF for last weather information updates.
 
-● Interflight: VHF #X showing in CommCard and Mission Brief for each formation.
+● TWR:  PRESET #3 327.000 UHF/132.550 VHF for ATC control.
 
-All formations will request weather info and departure data on ATIS: 270.100 and tower freq 327.000 UHF/ 132.550 VHF.
+● Interflight: VHF #X according to CommCard and Mission Brief for each formation.
+
+All formations will request weather info and permission for departure on ATIS 270.100 and tower freq 327.000 UHF/ 132.550 VHF, respectively.
 
 
 ### 2.  **TAXI**
