@@ -42,7 +42,7 @@ Once formation ready and within taxi times assigned it will be asked to TWR cont
 
 When leader starts taxing will communicate in interflight freq: "Spartan 1, taxing RWY 05R, QNH 29,90". All wingmen will acknowledge: "Spartan 2, QNH 29,90".
 
-All formations will hold the active arming zone waiting their respective take off times.
+All formations will hold the active EOR arming zone waiting their respective take off times. In the South EOR south of Taxiway Alpha, park in the most southern slot available and fill to the north. In the South EOR north of Taxiway Alpha, park in the most northern slot available and fill to the south.
 
 
 ### 3.  **DEPARTURE**
