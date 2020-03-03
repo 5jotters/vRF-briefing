@@ -53,7 +53,7 @@ Once formations cleared for departure will enter and take off depending on Airfi
  ![](../Images/FlexTurnoutRWY21.jpg)
  
 ● IMC: DREAM 6 departure in use. Take Off will be 1+1 at 20" spacing. Wingman will maintain 2 NM trail formation till rejoin in VMC above clouds.
-[](../files/Dream6.pdf)
+[](../Images/Dream6.jpg)
 
 When Take Off procedure complete and airborne, TWR controller will clear the formations to change to Boom Freq. (Take Care, no human controller at this time, will use DCS normal fuel request and refueling procedure).
 
@@ -81,11 +81,10 @@ On the way back and crossing FLOT heading home all formations will contact TWR i
 
 - During IMC or NIGHT (VMC or IMC), aircrews should expect vectors for ILS or TACAN approach to RWY 21.
 
-- RWY 21 is the preferred landing runway for IMC/Night recoveries. Night recoveries from the nellis Ranges should proceed to the IFR pickup point for the appropiate recovery and contact nellis control. North/Easthern recoveries will be via TEXAS LAKE. South/Western recoveris Will be via FLUSH.
-Expect ARCOE or KRYSS ILS approach.
-[](../Images/ILS_RWY21.pdf)
+- RWY 21 is the preferred landing runway for IMC/Night recoveries. Night recoveries from the nellis Ranges should proceed to the IFR pickup point for the appropiate recovery and contact nellis control. North/Easthern recoveries will be via TEXAS LAKE. South/Western recoveris Will be via FLUSH. Expect ARCOE or KRYSS ILS approach. Flight Leads will be responsible of separation till to be under ATC control. If situation requires they can proceed MARSA (Military Assume Responsability for Separation of Aircraft), with previous formation.
 
-Flight Leads will be responsible of separation till to be under ATC control. If situation requires they can proceed MARSA (Military Assume Responsability for Separation of Aircraft), with previous formation.
+![](../Images/ILS_RWY21.jpg)
+
 
 
 ### **ANNEX A. AAR**
