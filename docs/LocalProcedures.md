@@ -39,9 +39,9 @@ All participants will start up engines stick to each type of aircraft normal pro
 
 ● TEXACO (NORTHERN TANKER KC-135):    PRESET #13 268.0 UHF
 
-● INTERFLIGHT: PRESET VHF #X, according to the assigned frequency in the Commcard.
+● INTERFLIGHT: PRESET VHF #X, according to the assigned frequency in the COMMCARD
 
-All formations will request weather info on ATIS 270.100. If ground control is available, all formation will ask for taxi on GND frequency. In other case, TWR frequency will be used for taxi and departure.
+All formations will request weather info on ATIS 270.100. If ground control is available, Taxi will be requested in GND frequency. Otherwise, TWR frequency will be used for taxi and departure.
 
 
 ### 2.  **TAXI**
@@ -73,7 +73,7 @@ After Take Off, ATC controller will clear the formations to change to either the
 
 ### 4.  **ROUTE**
 
-Ofter departure all formations will proceed to the first waypoint A1: HAREM and then B2: JUNNO. These points are common WPTs for all participants and will be also serve as ARCP for formations refueling in southern tanker (TEXACO KC-135 AAR SOUTH) 19.000 FT, and northern tanker (ARCO KC-135MPRS NORTH) 18.000 FT. Once with visual contact with tanker, receivers with climb for rejoining and proceed echelon left with tanker
+Ofter departure all formations will proceed to  waypoints A1: HAREM,  B2: JUNNO and C3:AAR at FL200 or below. These points are common WPTs for all participants. Waypoint C3 will be also ARCP for formations refueling in southern tanker (ARCO KC-135MPRS AAR SOUTH) FL220, and northern tanker (TEXACO KC-135 NORTH) FL220. Once with visual contact with tanker, receivers with climb for rejoining and proceed echelon left with tanker
 
 After refueling, formations will proceed to assigned Holding/Push WPT, normally WPT 4 (D4) HOLD and WPT 5 (E5) PUSH, at the assigned altitudes. On the way to the holding/push WPTs all formations with contact GCI controller for check-in and tactical flight. MANDATORY CALL FOR ALL FORMATIONS one minute before reaching the holding/push point for SA. For instance: "Lobo, 1 minute to D4, maintaining FL230".
 
@@ -120,6 +120,20 @@ This is an individual procedure that everybody must accomplish. Please maintain 
 
 
 ### **ANNEX B. FREQUENCIES**
+
+● GND: ATIS: PRESET #1 270.1 UHF, for last weather information updates.
+
+● GND:  PRESET #2 275.8 UHF/121.8 VHF, for ground control if available.
+
+● TWR:  PRESET #3 327.0 UHF/132.55 VHF for ATC control.
+
+● MAGIC:  PRESET #6 305.0 UHF for GCI control
+
+● ARCO (SOUTHERN TANKER KC-135MPRS):  PRESET #12 269.0 UHF
+
+● TEXACO (NORTHERN TANKER KC-135):    PRESET #13 268.0 UHF
+
+● INTERFLIGHT: PRESET VHF #X, according to the assigned frequency in the COMMCARD
 
 
 [Back to mainpage](../README.md)
