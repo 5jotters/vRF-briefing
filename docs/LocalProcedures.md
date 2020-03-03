@@ -33,6 +33,12 @@ All participants will start up engines stick to each type of aircraft normal pro
 
 ● TWR:  PRESET #3 327.0 UHF/132.55 VHF for ATC control.
 
+● MAGIC:  PRESET #6 305.0 UHF for GCI control
+
+● ARCO (SOUTHERN TANKER KC-135MPRS):  PRESET #12 269.0 UHF
+
+● TEXACO (NORTHERN TANKER KC-135):    PRESET #13 268.0 UHF
+
 ● INTERFLIGHT: PRESET VHF #X, according to the assigned frequency in the Commcard.
 
 All formations will request weather info on ATIS 270.100. If ground control is available, all formation will ask for taxi on GND frequency. In other case, TWR frequency will be used for taxi and departure.
@@ -40,11 +46,12 @@ All formations will request weather info on ATIS 270.100. If ground control is a
 
 ### 2.  **TAXI**
 
-Once ready for taxi each formation will ask to GND/TWR controller for taxing to active,  RWY 03R or 03L. Each formation will start taxi not before the preceding one according to the ATO. In the event of a flight unable to accoplish with their taxi time, it will communicate this event in GND/TWR frequency and the following formation in the ATO  will ask for taxing to the active  in order to avoid delays.
+Once ready for taxi each formation will ask to GND/TWR controller for taxing to active,  RWY 03R or 03L. Each formation will start taxi not before the preceding one according to the ATO. If one formation has problems at start-up then
+following formation according to the ATO will ask for taxing to holding point of runway in use in order to avoid taxi collapsing.
 
 When leader starts taxing will communicate in interflight freq: "Spartan 1, taxing RWY 05R, QNH 29,90". All wingmen will acknowledge: "Spartan 2, QNH 29,90".
 
-All formations will hold in the active arming zone, waiting their respective take off times. In the South EOR south of taxiway Alpha, park in the most southern slot available and fill to the north. In the South EOR north of taxiway Alpha, park in the most northern slot available and fill to the south.
+All formations will hold the active arming zone waiting their respective take off times. In the South EOR south of taxiway Alpha, park in the most southern slot available and fill to the north. In the South EOR north of taxiway Alpha, park in the most northern slot available and fill to the south.
 
 ![](../Images/NellisAFB.png)
 
@@ -61,27 +68,29 @@ Once formations are cleared for departure they will enter and take off following
 
 ![](../Images/Dream6.jpg)
 
-After Take Off, ATC controller will clear the formations to change to  Boom Freqency (see AAR appendix) in order to proceed to the refueling area. 
+After Take Off, ATC controller will clear the formations to change to either the GCI tactical frequency (preset #6) or Boom Freqency (see AAR appendix).
 
 
 ### 4.  **ROUTE**
 
-Once airbone formations will proceed direct to waypoint A1: HAREM, B2: JUNNO. This point will be common WPT for all participants and will be also ARCP for formations refueling from southern tanker (TEXACO KC-135 AAR SOUTH) 19.000 FT. AND northern tanker (ARCO KC-135MPRS NORTH) 18.000 FT. Once with visual contact with tanker, receivers with climb for rejoining and proceed echelon left with tanker
+Ofter departure all formations will proceed to the first waypoint A1: HAREM and then B2: JUNNO. These points are common WPTs for all participants and will be also serve as ARCP for formations refueling in southern tanker (TEXACO KC-135 AAR SOUTH) 19.000 FT, and northern tanker (ARCO KC-135MPRS NORTH) 18.000 FT. Once with visual contact with tanker, receivers with climb for rejoining and proceed echelon left with tanker
 
-After refueling, formations will proceed to assigned Holding/Push WPT, normally WPT 4 (D4) HOLD and WPT 5 (E5) PUSH, at assigned COMMCARD altitudes. On the way to holding/push formations with contact GCI controller for check-in and tactical flight. MANDATORY CALL FOR ALL FORMATIONS when one minute to reach holding/push point for deconfliction. For instance: "Lobo, 1 minute to D4, maintaining FL230".
+After refueling, formations will proceed to assigned Holding/Push WPT, normally WPT 4 (D4) HOLD and WPT 5 (E5) PUSH, at the assigned altitudes. On the way to the holding/push WPTs all formations with contact GCI controller for check-in and tactical flight. MANDATORY CALL FOR ALL FORMATIONS one minute before reaching the holding/push point for SA. For instance: "Lobo, 1 minute to D4, maintaining FL230".
 
+Local Nellis QNH will be used in all NTTR ranges at all altitutes.
 
 ### 5.  **RECOVERY**
 
-On the way back and crossing FLOT heading home all formations will contact TWR in 327.000 UHF and will ask for weather, landing data and type of approach.
+On the way back and crossing FLOT heading home all formations will contact TWR in 327.000 UHF and will ask for weather, landing data and will request type of approach.
 
-Landing approach will be done depending on airfield weather conditions:
+Landing approach will be done depending on Nellis AFB weather conditions:
 
 ● VMC: RWY 03 or 21 in use.
  - RWY 21: ARCOE recovery in use.
  ![](../Images/ArcoeRecovery.jpg)
  - RWY 03: STRYK recovery. Aircrews can proceed directly to GASS PK if ATC aproved.
  ![](../Images/StrykRecovery.jpg)
+ - Formations will ask for 360 military traffic pattern. They will break over the runway at 3,500 ft MSL.
  
 ● IMC: RWY 21 in use.
 
@@ -97,13 +106,15 @@ Landing approach will be done depending on airfield weather conditions:
 
  Rejoining and communication procedure with tanker as described:
 
- - When airborne northern refueling formation will use preset UHF #13, while southern will use preset UHF #12. 
+ - Boom aircrafts will proceed to Northern tanker TEXACO, PRESET #13 268.0 UHF.
+ 
+ - Probe aircrafts will proceed to Southern tanker TEXACO, PRESET #13 268.0 UHF.
  
  - Each flight leader must pay attention to the comms in order to deconflict with other formations in the vecinities of the tanker.
 
- - First find and track our assigned tanker via TACAN and/or AA Radar. NEVER ask something to tanker up to this point. Rejoin and maintain  echelon left formation with the tanker and the other previous formations in the queue.
+ - Find and track our assigned tanker via TACAN and/or AA Radar. NEVER ask something to tanker up to this point. Rejoin and maintain  echelon left formation with the tanker and the other previous formations in the queue as briefed.
 
- - Only when we are next in the queue, we will request _APPROACHING FOR REFUELING_ to the tanker. Once refueling is complete, aircraft will proceed to right echelon with tanker and will end DCS procedure making call in DCS tanker menu, _ABORT REFUEL_.
+ - Once we are next in the queue, we will request _APPROACHING FOR REFUELING_ to the tanker. After refueling, each aircraft will proceed to right echelon with tanker and will end DCS procedure making call in DCS tanker menu, _ABORT REFUEL_.
 
 This is an individual procedure that everybody must accomplish. Please maintain concentration up to this point and make correct calls.
 
