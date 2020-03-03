@@ -1,6 +1,6 @@
 # VIRTUAL RED FLAG: LOCAL PROCEDURES
 
-## VER 1.1 DICIEMBRE 2019
+## VER 1.2 MARCH 2020
 
 ![](../Images/LogovRF.JPG)
 
@@ -33,7 +33,7 @@ All participants will start up engines stick to each type of aircraft normal pro
 
 ● TWR:  PRESET #3 327.0 UHF/132.55 VHF for ATC control.
 
-● INTERFLIGHT: PRESET VHF #X, according to CommCard and Mission Brief for each formation.
+● INTERFLIGHT: PRESET VHF #X, according to the assigned frequency in the Commcard.
 
 All formations will request weather info on ATIS 270.100. If ground control is available, all formation will ask for taxi on GND frequency. In other case, TWR frequency will be used for taxi and departure.
 
@@ -44,13 +44,13 @@ Once ready for taxi each formation will ask to GND/TWR controller for taxing to 
 
 When leader starts taxing will communicate in interflight freq: "Spartan 1, taxing RWY 05R, QNH 29,90". All wingmen will acknowledge: "Spartan 2, QNH 29,90".
 
-All formations will hold in the active arming zone waiting their respective take off times. In the South EOR south of Taxiway Alpha, park in the most southern slot available and fill to the north. In the South EOR north of Taxiway Alpha, park in the most northern slot available and fill to the south.
+All formations will hold in the active arming zone, waiting their respective take off times. In the South EOR south of taxiway Alpha, park in the most southern slot available and fill to the north. In the South EOR north of taxiway Alpha, park in the most northern slot available and fill to the south.
 
 ![](../Images/NellisAFB.png)
 
 ### 3.  **DEPARTURE**
 
-Once formations cleared for departure will enter and take off depending on Airfield weather conditions.
+Once formations are cleared for departure they will enter and take off following VMC or IMC procedures depending on the Airfield weather conditions:
 
 ● VMC: NORTH FLEX / DREAM 3 departure in use. Take Off will be 1+1 at 10" spacing with visual rejoin when airborne. Afterwards will proceed to first route waypoint. This one will be exactly the same for all players in the package.
  ![](../Images/FlexTurnout.jpg)
