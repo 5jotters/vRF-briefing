@@ -4,23 +4,23 @@
 
 ![](../Images/LogovRF.JPG)
 
-**This issue belongs to (rank/name).............................................**
+
 
 ## TABLE OF CONTENTS
 
-1.  START-UP PROC 
+1.  [START-UP](#1--start-up) 
 
-2.  TAXI
+2.  [TAXI](#2--taxi)
 
-3.  DEPARTURE
+3.  [DEPARTURE](#3--departure)
 
-4.  ROUTE
+4.  [ROUTE](#4--route)
 
-5.  RECOVERY
+5.  [RECOVERY](#5--recovery)
 
-6.  ANNEX A. AAR
+6.  [ANNEX A. AAR](#annex-a-aar)
 
-7.  ANNEX B. FREQUENCIES
+7.  [ANNEX B. FREQUENCIES](#annex-b-frequencies)
 
 
 ### 1.  **START-UP**
@@ -61,7 +61,7 @@ Once formations cleared for departure will enter and take off depending on Airfi
 When Take Off procedure complete and airborne, TWR controller will clear the formations to change to Boom Freq. (Take Care, no human controller at this time, will use DCS normal fuel request and refueling procedure).
 
 
-### 4.  **RUTA**
+### 4.  **ROUTE**
 
 Once airbone formations will proceed direct to waypoint A1: HAREM, B2: JUNNO. This point will be common WPT for all participants and will be also ARCP for formations refueling from southern tanker (TEXACO KC-135 AAR SOUTH) 19.000 FT. AND northern tanker (ARCO KC-135MPRS NORTH) 18.000 FT. Once with visual contact with tanker, receivers with climb for rejoining and proceed echelon left with tanker
 
