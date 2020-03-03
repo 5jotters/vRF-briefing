@@ -68,7 +68,7 @@ Once formations are cleared for departure they will enter and take off following
 
 ![](../Images/Dream6.jpg)
 
-After Take Off, ATC controller will clear the formations to change to either the GCI tactical frequency (preset #6) or Boom Freqency (see AAR appendix).
+After Take Off, ATC controller will clear the formations to change to either the GCI tactical frequency (preset #6) or AAR frequency (see AAR appendix).
 
 
 ### 4.  **ROUTE**
