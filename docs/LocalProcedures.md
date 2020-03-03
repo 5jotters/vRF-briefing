@@ -61,14 +61,14 @@ Once formations are cleared for departure they will enter and take off following
 
 ![](../Images/Dream6.jpg)
 
-When Take Off procedure complete and airborne, TWR controller will clear the formations to change to Boom Freq. (Take Care, no human controller at this time, will use DCS normal fuel request and refueling procedure).
+After Take Off, ATC controller will clear the formations to change to  Boom Freqency (see AAR appendix) in order to proceed to the refueling area. 
 
 
 ### 4.  **ROUTE**
 
 Once airbone formations will proceed direct to waypoint A1: HAREM, B2: JUNNO. This point will be common WPT for all participants and will be also ARCP for formations refueling from southern tanker (TEXACO KC-135 AAR SOUTH) 19.000 FT. AND northern tanker (ARCO KC-135MPRS NORTH) 18.000 FT. Once with visual contact with tanker, receivers with climb for rejoining and proceed echelon left with tanker
 
-After refueling, formations will proceed to assigned Holding/Push WPT, normally WPT 4 (D4) HOLD and WPT 5 (E5) PUSH, at assigned COMMCARD altitudes. On the way to holding/push formations with contact human GCI for check-in and tactical flight. MANDATORY CALL FOR ALL FORMATIONS when one minute to reach holding/push point for deconfliction. For instance: "Lobo, 1 minute to D4, maintaining FL230".
+After refueling, formations will proceed to assigned Holding/Push WPT, normally WPT 4 (D4) HOLD and WPT 5 (E5) PUSH, at assigned COMMCARD altitudes. On the way to holding/push formations with contact GCI controller for check-in and tactical flight. MANDATORY CALL FOR ALL FORMATIONS when one minute to reach holding/push point for deconfliction. For instance: "Lobo, 1 minute to D4, maintaining FL230".
 
 
 ### 5.  **RECOVERY**
@@ -97,7 +97,9 @@ On the way back and crossing FLOT heading home all formations will contact TWR i
 
  Rejoining and communication procedure with tanker as described:
 
- - When airborne northern refueling formation will use preset UHF #13, while southern will use preset UHF #12.  
+ - When airborne northern refueling formation will use preset UHF #13, while southern will use preset UHF #12. 
+ 
+ - Each flight leader must pay attention to the comms in order to deconflict with other formations in the vecinities of the tanker.
 
  - First find and track our assigned tanker via TACAN and/or AA Radar. NEVER ask something to tanker up to this point. Rejoin and maintain  echelon left formation with the tanker and the other previous formations in the queue.
 
