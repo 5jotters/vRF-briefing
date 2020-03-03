@@ -106,9 +106,9 @@ Landing approach will be done depending on Nellis AFB weather conditions:
 
  Rejoining and communication procedure with tanker as described:
 
- - Boom aircrafts will proceed to Northern tanker TEXACO, PRESET #13 268.0 UHF.
+ - Probe aircrafts will proceed to Southern tanker ARCO, PRESET #12 269.0 UHF.
  
- - Probe aircrafts will proceed to Southern tanker TEXACO, PRESET #13 268.0 UHF.
+ - Boom aircrafts will proceed to Northern tanker TEXACO, PRESET #13 268.0 UHF.
  
  - Each flight leader must pay attention to the comms in order to deconflict with other formations in the vecinities of the tanker.
 
