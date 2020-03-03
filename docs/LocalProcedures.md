@@ -25,25 +25,28 @@
 
 ### 1.  **START-UP**
 
-All participants will start up engines stick to each type of aircraft normal procedures. Normally will use this radio setting procedure for taxi, departure, GCI and also interflight COMMS. All platforms should adhere to the following PRESET plan:
+All participants will start up engines stick to each type of aircraft normal procedures. Normally will use this radio setting procedure for ground, taxi, departure/approach and interflight COMMS. All platforms should adhere to the following PRESET plan:
 
-● ATIS: PRESET #1 270.100 UHF, for last weather information updates.
+● ATIS: PRESET #1 270.1 UHF, for last weather information updates.
 
-● TWR:  PRESET #3 327.000 UHF/132.550 VHF, for ATC control.
+● GND:  PRESET #2 275.8 UHF/121.8 VHF, for ground control if available.
+
+● TWR:  PRESET #3 327.0 UHF/132.55 VHF for ATC control.
 
 ● INTERFLIGHT: PRESET VHF #X, according to CommCard and Mission Brief for each formation.
 
-All formations will request weather info and permission for departure on ATIS 270.100 and tower freq 327.000 UHF/ 132.550 VHF, respectively.
+All formations will request weather info on ATIS 270.100. If ground control is available, all formation will ask for taxi on GND frequency. In other case, TWR frequency will be used for taxi and departure.
 
 
 ### 2.  **TAXI**
 
-Once formation ready and within taxi times assigned it will be asked to TWR controller for taxing to runway in use. It one formation with problems at start up then following formation will ask for taxing to holding point of runway in use in order to avoid taxi collapsing.
+Once ready for taxi each formation will ask to GND/TWR controller for taxing to active,  RWY 03R or 03L. Each formation will start taxi not before the preceding one according to the ATO. In the event of a flight unable to accoplish with their taxi time, it will communicate this event in GND/TWR frequency and the following formation in the ATO  will ask for taxing to the active  in order to avoid delays.
 
 When leader starts taxing will communicate in interflight freq: "Spartan 1, taxing RWY 05R, QNH 29,90". All wingmen will acknowledge: "Spartan 2, QNH 29,90".
 
-All formations will hold the active EOR arming zone waiting their respective take off times. In the South EOR south of Taxiway Alpha, park in the most southern slot available and fill to the north. In the South EOR north of Taxiway Alpha, park in the most northern slot available and fill to the south.
+All formations will hold in the active arming zone waiting their respective take off times. In the South EOR south of Taxiway Alpha, park in the most southern slot available and fill to the north. In the South EOR north of Taxiway Alpha, park in the most northern slot available and fill to the south.
 
+![](../Images/NellisAFB.png)
 
 ### 3.  **DEPARTURE**
 
