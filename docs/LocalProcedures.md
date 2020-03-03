@@ -73,9 +73,9 @@ After refueling, formations will proceed to assigned Holding/Push WPT, normally 
 
 ### 5.  **RECOVERY**
 
-On the way back and crossing FLOT heading home all formations will contact TWR in 327.000 UHF and will ask for weather, landing data and will request type of approach.
+On the way back and crossing FLOT heading home all formations will contact TWR in 327.000 UHF and will ask for weather, landing data and type of approach.
 
- Landing approach will be done depending on airfield weather conditions:
+Landing approach will be done depending on airfield weather conditions:
 
 ● VMC: RWY 03 or 21 in use.
  - RWY 21: ARCOE recovery in use.
@@ -85,9 +85,9 @@ On the way back and crossing FLOT heading home all formations will contact TWR i
  
 ● IMC: RWY 21 in use.
 
-- During IMC or NIGHT (VMC or IMC), aircrews should expect vectors for ILS or TACAN approach to RWY 21.
+ - During IMC or NIGHT (VMC or IMC), aircrews should expect vectors for ILS or TACAN approach to RWY 21.
 
-- RWY 21 is the preferred landing runway for IMC/Night recoveries. Night recoveries from the nellis Ranges should proceed to the IFR pickup point for the appropiate recovery and contact nellis control. North/Easthern recoveries will be via TEXAS LAKE. South/Western recoveris Will be via FLUSH. Expect ARCOE or KRYSS ILS approach. Flight Leads will be responsible of separation till to be under ATC control. If situation requires they can proceed MARSA (Military Assume Responsability for Separation of Aircraft), with previous formation.
+ - RWY 21 is the preferred landing runway for IMC/Night recoveries. Night recoveries from the nellis Ranges should proceed to the IFR pickup point for the appropiate recovery and contact nellis control. North/Easthern recoveries will be via TEXAS LAKE. South/Western recoveris Will be via FLUSH. Expect ARCOE or KRYSS ILS approach. Flight Leads will be responsible of separation till to be under ATC control. If situation requires they can proceed MARSA (Military Assume Responsability for Separation of Aircraft), with previous formation.
 
 ![](../Images/ILS_RWY21.jpg)
 
