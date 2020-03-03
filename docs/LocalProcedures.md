@@ -74,7 +74,7 @@ On the way back and crossing FLOT heading home all formations will contact TWR i
 ● VMC: RWY 03 or 21 in use.
  - RWY 21: ARCOE recovery in use.
  ![](../Images/ArcoeRecovery.jpg)
- - RWY 03: STRYK recovery in use.
+ - RWY 03: STRYK recovery in use via GASS PK.
  ![](../Images/StrykRecovery.jpg)
  
 ● IMC: RWY 21 in use.
