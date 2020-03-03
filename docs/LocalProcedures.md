@@ -27,11 +27,12 @@
 
 All participants will start up engines stick to each type of aircraft normal procedures. Normally will use this radio setting procedure for taxi, departure, GCI and also interflight COMMS:
 
-● TWR: Will set UHF #15 with NELLIS TWR Freq to use. Once in cockpit we set manual Freq 327.000 UHF/132.550 VHF for ATC control.
+● TWR: Once in cockpit we set Freq 327.000 UHF/132.550 VHF for ATC control according to CommCard.
 
 ● Interflight: VHF #X showing in CommCard and Mission Brief for each formation.
 
 All formations will request weather info and departure data on ATIS: 270.100 and tower freq 327.000 UHF/ 132.550 VHF.
+
 
 ### 2.  **TAXI**
 
@@ -41,15 +42,17 @@ When leader starts taxing will communicate in interflight freq: "Spartan 1, taxi
 
 All formations will hold the active arming zone waiting their respective take off times.
 
+
 ### 3.  **DEPARTURE**
 
-Once formations cleared for departure will enter and take off depending on Airfield weather conditions. (DREAM ONE DEPARTURE)
+Once formations cleared for departure will enter and take off depending on Airfield weather conditions.
 
-● VMC: Take Off will be 1+1 at 10" spacing with visual rejoin when airborne. Afterwards will proceed to first route waypoint. This one will be exactly the same for all players in the package.
+● VMC: NORTH FLEX departure in use. Take Off will be 1+1 at 10" spacing with visual rejoin when airborne. Afterwards will proceed to first route waypoint. This one will be exactly the same for all players in the package.
 
-● IMC: Take Off will be 1+1 at 20" spacing. Wingman will maintain 2 NM trail formation till rejoin in VMC above clouds.
+● IMC: DREAM 6 departure in use. Take Off will be 1+1 at 20" spacing. Wingman will maintain 2 NM trail formation till rejoin in VMC above clouds.
 
 When Take Off procedure complete and airborne, TWR controller will clear the formations to change to Boom Freq. (Take Care, no human controller at this time, will use DCS normal fuel request and refueling procedure).
+
 
 ### 4.  **RUTA**
 
@@ -57,37 +60,31 @@ Once airbone formations will proceed direct to waypoint A1: HAREM, B2: JUNNO. Th
 
 After refueling, formations will proceed to assigned Holding/Push WPT, normally WPT 4 (D4) HOLD and WPT 5 (E5) PUSH, at assigned COMMCARD altitudes. On the way to holding/push formations with contact human GCI for check-in and tactical flight. MANDATORY CALL FOR ALL FORMATIONS when one minute to reach holding/push point for deconfliction. For instance: "Lobo, 1 minute to D4, maintaining FL230".
 
+
 ### 5.  **RECOVERY**
 
 On the way back and crossing FLOT heading home all formations will contact TWR in 327.000 UHF and will ask for weather, landing data and will request type of approach.
 
  Landing approach will be done depending on airfield weather conditions:
 
-● VMC: (OVERHEAD RWY 21)
+● VMC: RWY 03 or 21 in use.
+ - RWY 21: ARCOE recovery in use.
+ ![](Images/ArcoeRecovery.jpg)
+ - RWY 03: STRYK recovery in use.
+ ![](Images/StrykRecovery.jpg)
+ 
+● IMC: RWY 21 in use.
 
-- Cross ARCOE at or above 15.000 MSL
+- During IMC or NIGHT (VMC or IMC), aircrews should expect vectors for ILS or TACAN approach to RWY 21.
 
-- Then fly heading 165º to APEX
-
-- Cross APEX at or above 4500 MSL, Report to tower.
-
-- Cross LSV 025/05 at 4000 MSL, then descend to 3500 MSL for initial.
-
-- VMC: (STRAIGHT RWY 21)
-
-- Cross APEX at 4000 MSL
-
-- Descend to be at 3000 MSL at LSV 025/5
-
-● IMC: (RWY 21)
-
-- During IMC or NIGHT ((VMC or IMC), aircrews should expect vectos for the ILS or TACAN approach
-
-- RWY 21 is the preferred landing runway for IMC/Night recoveries. Night recoveries from the nellis Ranges should proceed to the IFR pickup point for the appropiate recovery and contact nellis control. North/Easthern recoveris Will be via TEXAS LAKE. South/Western recoveris Will be via FLUSH.
+- RWY 21 is the preferred landing runway for IMC/Night recoveries. Night recoveries from the nellis Ranges should proceed to the IFR pickup point for the appropiate recovery and contact nellis control. North/Easthern recoveries will be via TEXAS LAKE. South/Western recoveris Will be via FLUSH.
+Expect ARCOE or KRYSS ILS approach.
+![](Images/ILS_RWY21.pdf)
 
 Flight Leads will be responsible of separation till to be under ATC control. If situation requires they can proceed MARSA (Military Assume Responsability for Separation of Aircraft), with previous formation.
 
-### **ANNEX A. AAR.**
+
+### **ANNEX A. AAR**
 
  Rejoining and communication procedure with tanker as described:
 
@@ -100,5 +97,5 @@ Flight Leads will be responsible of separation till to be under ATC control. If 
 This is an individual procedure that everybody must accomplish. Please maintain concentration up to this point and make correct calls.
 
 
-### **ANNEX B. FREQUENCIES.**
+### **ANNEX B. FREQUENCIES**
 
