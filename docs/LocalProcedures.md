@@ -27,11 +27,11 @@
 
 All participants will start up engines stick to each type of aircraft normal procedures. Normally will use this radio setting procedure for taxi, departure, GCI and also interflight COMMS. All platforms should adhere to the following PRESET plan:
 
-● ATIS: PRESET #1 270.100 UHF for last weather information updates.
+● ATIS: PRESET #1 270.100 UHF, for last weather information updates.
 
-● TWR:  PRESET #3 327.000 UHF/132.550 VHF for ATC control.
+● TWR:  PRESET #3 327.000 UHF/132.550 VHF, for ATC control.
 
-● Interflight: VHF #X according to CommCard and Mission Brief for each formation.
+● INTERFLIGHT: PRESET VHF #X, according to CommCard and Mission Brief for each formation.
 
 All formations will request weather info and permission for departure on ATIS 270.100 and tower freq 327.000 UHF/ 132.550 VHF, respectively.
 
@@ -93,11 +93,11 @@ On the way back and crossing FLOT heading home all formations will contact TWR i
 
  Rejoining and communication procedure with tanker as described:
 
- When airborne northern formation will use preset UHF #13 and southern will use preset UHF #12.  
+ - When airborne northern refuelling formation will use preset UHF #13, while southern will use preset UHF #12.  
 
- First to do is find and track our tanker. We will interdict him. NEVER ask something to tanker up to this point. When rejoining completed echelon left formation must to be maintained with tanker or other previous formations in the queue.
+ - First find and track our assigned tanker via TACAN and/or AA Radar. NEVER ask something to tanker up to this point. Rejoin and maintain  echelon left formation with the tanker and the other previous formations in the queue.
 
- Only at the right moment we are the closed formation to the tanker, it means we are next for refueling, will request refuel to the tanker. Once refueling complete, refueled aircraft will proceed to right echelon with tanker and will end DCS procedure making call in DCS tanker menu, ABORT REFUEL.
+ - Only when we are next in the queue, we will request _APPROACHING FOR REFUELLING_ to the tanker. Once refueling complete, aircraft will proceed to right echelon with tanker and will end DCS procedure making call in DCS tanker menu, _ABORT REFUEL_.
 
 This is an individual procedure that everybody must accomplish. Please maintain concentration up to this point and make correct calls.
 
