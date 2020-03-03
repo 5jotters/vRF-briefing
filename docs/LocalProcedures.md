@@ -76,7 +76,9 @@ After Take Off, ATC controller will clear the formations to change to either the
 After departure all formations will proceed to  waypoints A1: HAREM,  B2: JUNNO and reaching C3:AAR at FL200 or below. These points are common WPTs for all participants. Waypoint C3 will be also ARCP for formations refueling in southern tanker (ARCO KC-135MPRS AAR SOUTH) FL220, and northern tanker (TEXACO KC-135 NORTH) FL220. 
 Once with visual contact with tanker, receivers with climb for rejoining and proceed echelon left with tanker.
 
-After refueling, formations will proceed to the assigned Holding/Push WPT, normally WPT 4 (D4) HOLD and WPT 5 (E5) PUSH, at the assigned altitudes. On the way to the holding/push WPTs all formations with contact GCI controller for check-in and tactical flight. MANDATORY CALL FOR ALL FORMATIONS one minute before reaching the holding/push point for SA. For instance: "Lobo, 1 minute to D4, maintaining FL230".
+After refueling, formations will proceed to the assigned Holding/Push WPT, normally WPT 4 (D4) HOLD and WPT 5 (E5) PUSH, at the assigned altitudes. On the way to the holding/push WPTs all formations with contact GCI controller for check-in and tactical flight.
+
+**MANDATORY CALL FOR ALL FORMATIONS one minute before reaching the holding/push point for SA. For instance: "Lobo, 1 minute to D4, maintaining FL230"**.
 
 Local Nellis QNH will be used in all NTTR ranges at all altitutes.
 
