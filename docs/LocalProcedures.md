@@ -88,14 +88,14 @@ On the way back and crossing FLOT heading home all formations will contact TWR i
 
 Landing approach will be done depending on Nellis AFB weather conditions:
 
-● VMC: RWY 03 or 21 in use.
+#### VMC: RWY 03 or 21 in use.
  - RWY 21: ARCOE recovery in use.
  ![](../Images/ArcoeRecovery.jpg)
  - RWY 03: STRYK recovery. Aircrews can proceed directly to GASS PK if ATC aproved.
  ![](../Images/StrykRecovery.jpg)
  - Formations will ask for 360 military traffic pattern. They will break over the runway at 3,500 ft MSL.
  
-● IMC: RWY 21 in use.
+#### IMC: RWY 21 in use.
 
  - During IMC or NIGHT (VMC or IMC), aircrews should expect vectors for ILS or TACAN approach to RWY 21.
 
