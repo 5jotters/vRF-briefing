@@ -48,8 +48,12 @@ All formations will hold the active arming zone waiting their respective take of
 Once formations cleared for departure will enter and take off depending on Airfield weather conditions.
 
 ● VMC: NORTH FLEX departure in use. Take Off will be 1+1 at 10" spacing with visual rejoin when airborne. Afterwards will proceed to first route waypoint. This one will be exactly the same for all players in the package.
-
+ ![](../Images/FlexTurnout.jpg)
+ 
+ ![](../Images/FlexTurnoutRWY21.jpg)
+ 
 ● IMC: DREAM 6 departure in use. Take Off will be 1+1 at 20" spacing. Wingman will maintain 2 NM trail formation till rejoin in VMC above clouds.
+[](../files/Dream6.pdf)
 
 When Take Off procedure complete and airborne, TWR controller will clear the formations to change to Boom Freq. (Take Care, no human controller at this time, will use DCS normal fuel request and refueling procedure).
 
@@ -79,7 +83,7 @@ On the way back and crossing FLOT heading home all formations will contact TWR i
 
 - RWY 21 is the preferred landing runway for IMC/Night recoveries. Night recoveries from the nellis Ranges should proceed to the IFR pickup point for the appropiate recovery and contact nellis control. North/Easthern recoveries will be via TEXAS LAKE. South/Western recoveris Will be via FLUSH.
 Expect ARCOE or KRYSS ILS approach.
-![](../Images/ILS_RWY21.pdf)
+[](../Images/ILS_RWY21.pdf)
 
 Flight Leads will be responsible of separation till to be under ATC control. If situation requires they can proceed MARSA (Military Assume Responsability for Separation of Aircraft), with previous formation.
 
