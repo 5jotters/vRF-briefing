@@ -46,7 +46,7 @@ All formations will request weather info on ATIS 270.100. If ground control is a
 
 ### 2.  **TAXI**
 
-Once ready for taxi each formation will ask to GND/TWR controller for taxing to active,  RWY 03R or 03L. Each formation will start taxi not before the preceding one according to the ATO. If one formation has problems at start-up then
+Once ready for taxi each formation will ask GND (or TWR) for taxing to the active, normally RWY 03R or 03L. Each formation will start taxi not before the preceding one according to the ATO. If one formation has problems at start-up then
 following formation according to the ATO will ask for taxing to holding point of runway in use in order to avoid taxi collapsing.
 
 When leader starts taxing will communicate in interflight freq: "Spartan 1, taxing RWY 05R, QNH 29,90". All wingmen will acknowledge: "Spartan 2, QNH 29,90".
