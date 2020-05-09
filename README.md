@@ -1,9 +1,9 @@
 # vTLP-briefing
-Wellcome to the virtual Tactical Leadership Program pages hosted by the spanish squadron [GV5JS](http://foro.gv5js.com/). Virtual TLP offers to the participants the oportunity to fly composite attack force missions in DCSW. The exercise provides an scenario where the virtual pilot is exposed to the complexities of planning, briefing and executing a  COMAO.
+Wellcome to the virtual Red Flag pages hosted by the spanish squadron [GV5JS](http://foro.gv5js.com/). Virtual Red Flag offers to the participants the oportunity to fly composite attack force missions in DCSW. The exercise provides an scenario where the virtual pilot is exposed to the complexities of planning, briefing and executing a  COMAO.
 
-The main objective is to mimic the real TLP that takes place in Albacete, Spain, to the extend that it is possible inside a simulation. In short, the vTLP aims for training and development of knowledge and leadership skills, necessary to conduct a multirol air tactical mission.
+The main objective is to execute composite operations as in the real Red Flag, to the extend that it is possible inside a simulation. In short, the vRF aims for training and development of knowledge and leadership skills, necessary to conduct a multirol air tactical mission.
 
-The programme has been hosted by the GV5Js since 2018 using Falcon BMS. After three successful editions, the vTLP staff has decided to also offer the course in DCSW. In this simulator headquarters are based at Nellis AFB, and missions will be conducted in the Nevada Test and Training Range (NTTR).
+A similar programme, named virtual TLP, has been hosted by the GV5Js since 2018 using Falcon BMS. After three successful editions, the vTLP staff has decided to also offer the course in DCSW. Due to the availability of the Nevada Test and Training Range (NTTR), the exercise is called virtual Red Flag, and the headquarters are based at Nellis AFB.
  
 Blue forces will execute different specific missions, such as air interdiction, OCA strikes, dynamic targeting, defensive counter air, among others. Targets are defended by a variety of Red force ground and air threats to give participant aircrews a challenging combat training mission.
  
