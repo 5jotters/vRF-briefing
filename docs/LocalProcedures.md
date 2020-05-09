@@ -22,6 +22,7 @@
 
 7.  [ANNEX B. FREQUENCIES](#annex-b-frequencies)
 
+8. [ANNEX C. KNEEBOARD](#annex-c-kneeboard)
 
 ### 1.  **START-UP**
 
@@ -33,7 +34,7 @@ All participants will start up engines stick to each type of aircraft normal pro
 
 ● TWR:  PRESET #3 327.0 UHF/132.55 VHF for ATC control.
 
-● MAGIC:  PRESET #6 305.0 UHF for GCI control
+● MAGIC:  PRESET #6 250.0 UHF for GCI control
 
 ● ARCO (SOUTHERN TANKER KC-135MPRS):  PRESET #12 269.0 UHF
 
@@ -59,7 +60,8 @@ All formations will hold the active arming zone waiting their respective take of
 
 Once formations are cleared for departure they will enter and take off following VMC or IMC procedures depending on the Airfield weather conditions:
 
-● VMC: NORTH FLEX / DREAM 3 departure in use. Take Off will be 1+1 at 10" spacing with visual rejoin when airborne. Afterwards will proceed to first route waypoint. This one will be exactly the same for all players in the package.
+● VMC: NORTH FLEX / DREAM 6 departure in use. Take Off will be 1+1 at 10" spacing with visual rejoin when airborne. Once above 10200 FT / 20NM R249 LSV proceed to C3: AAR. This one will be exactly the same for all players in the package.
+
  ![](../Images/FlexTurnout.jpg)
  
  ![](../Images/FlexTurnoutRWY21.jpg)
@@ -73,7 +75,7 @@ After Take Off, ATC controller will clear the formations to change to either the
 
 ### 4.  **ROUTE**
 
-After departure all formations will proceed to  waypoints A1: HAREM,  B2: JUNNO and reaching C3:AAR at FL200 or below. These points are common WPTs for all participants. Waypoint C3 will be also ARCP for formations refueling in southern tanker (ARCO KC-135MPRS AAR SOUTH) FL220, and northern tanker (TEXACO KC-135 NORTH) FL220. 
+After departure all formations will proceed to  waypoints A1: HEREM,  B2: JUNNO and reaching C3:AAR at FL200 or below. These points are common WPTs for all participants. Waypoint C3 will be also ARCP for formations refueling in southern tanker (ARCO KC-135MPRS AAR SOUTH) FL220, and northern tanker (TEXACO KC-135 NORTH) FL220. 
 Once with visual contact with tanker, receivers with climb for rejoining and proceed echelon left with tanker.
 
 After refueling, formations will proceed to the assigned Holding/Push WPT, normally WPT 4 (D4) HOLD and WPT 5 (E5) PUSH, at the assigned altitudes. On the way to the holding/push WPTs all formations with contact GCI controller for check-in and tactical flight.
@@ -109,7 +111,7 @@ Landing approach will be done depending on Nellis AFB weather conditions:
 
  Rejoining and communication procedure with tanker as described:
 
- - Probe aircrafts will proceed to Southern tanker ARCO, PRESET #12 269.0 UHF.
+ - Drogue aircrafts will proceed to Southern tanker ARCO, PRESET #12 269.0 UHF.
  
  - Boom aircrafts will proceed to Northern tanker TEXACO, PRESET #13 268.0 UHF.
  
@@ -124,13 +126,13 @@ This is an individual procedure that everybody must accomplish. Please maintain 
 
 ### **ANNEX B. FREQUENCIES**
 
-● GND: ATIS: PRESET #1 270.1 UHF, for last weather information updates.
+● ATIS: PRESET #1 270.1 UHF, for last weather information updates.
 
 ● GND:  PRESET #2 275.8 UHF/121.8 VHF, for ground control if available.
 
 ● TWR:  PRESET #3 327.0 UHF/132.55 VHF for ATC control.
 
-● MAGIC:  PRESET #6 305.0 UHF for GCI control
+● MAGIC:  PRESET #6 250.0 UHF for GCI control
 
 ● ARCO (SOUTHERN TANKER KC-135MPRS):  PRESET #12 269.0 UHF
 
@@ -138,6 +140,10 @@ This is an individual procedure that everybody must accomplish. Please maintain 
 
 ● INTERFLIGHT: PRESET VHF #X, according to the assigned frequency in the COMMCARD
 
+### **ANNEX C. KNEEBOARD**
+
+Charts for kneeboard can be downloaded from [here](https://drive.google.com/file/d/15K-QqFhZUXgYaeWMrcV6Ds45xlRituIQ/view?usp=sharing). Just unzip the files into ``<user>\Saved Games\DCS\Kneeboard\FA-18C_hornet``.
 
 [Back to mainpage](../README.md)
+
 

@@ -2,7 +2,7 @@
 ![](../Images/LogovRF.JPG)
 ## COURSE AND  MISSIONS  OBJECTIVES:
 
-VRF  course  main  goal  is  to  train  Blue  forces in  advanced  complex  scenarios. This course  is  built  and  planned  in  order  to  make  Mission  Commanders  and  learn  best  tactics  to  fight  against  an  enemy  force  taking  into  account  available  assets  and  resources.
+vTLP  course  main  goal  is  to  train  Blue  forces in  advanced  complex  scenarios. This course  is  built  and  planned  in  order  to  make  Mission  Commanders  and  learn  best  tactics  to  fight  against  an  enemy  force  taking  into  account  available  assets  and  resources.
 
 Having  said  this.  Red  team  has  to  focus  in  providing  best  training  to  Blue  forces,  not  being  the  best  pilot  or  team in  the world  killing  as  many  blues  as  possible.
 
@@ -31,3 +31,5 @@ Mission  limitations  will  be:
 - It  is  very  important  that  you  comply  with  time  on  station  (please  do  not  go  for  AAR  if  you  not  are  able  to  be  at  time  on  your  cap  or  push  point,  otherwise  you  will  degrade  mission  for  Blue and VRF staff will  take this  action  into account  for  next  missions  and  courses.
 
 In  other  worlds:  PLAN  SOMETHING  THAT  MAKES  SENSE  AND  DO  NOT  FORGET  MAIN  COURSE  GOAL!!!!!
+
+[Back to mainpage](../README.md)
