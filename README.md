@@ -1,4 +1,4 @@
-# vTLP-briefing
+# vRF-briefing
 Wellcome to the virtual Red Flag pages hosted by the spanish squadron [GV5JS](http://foro.gv5js.com/). Virtual Red Flag offers to the participants the oportunity to fly composite attack force missions in DCSW. The exercise provides an scenario where the virtual pilot is exposed to the complexities of planning, briefing and executing a  COMAO.
 
 The main objective is to execute composite operations as in the real Red Flag, to the extend that it is possible inside a simulation. In short, the vRF aims for training and development of knowledge and leadership skills, necessary to conduct a multirol air tactical mission.
