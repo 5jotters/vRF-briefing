@@ -1,26 +1,26 @@
 ## PRESETS F14
-
-| CH |   AN/ARC-182   |  UHF  | CH | AN/ARC-159  | VHF   |
-|----|----------------|-------|----|-------------|-------|
-| 1  | BASE OPS       | 270.1 | 1  |             | 108.0 |
-| 2  | GND            | 275.8 | 2  | DEPT. GND   | 135.0 |
-| 3  | TWR            | 327.0 | 3  | DEPT. TWR   | 136.0 |
-| 4  | DEP/APP        | 327.0 | 4  | DEPT. APP   | 127.0 |
-| 5  | AWACS CHECK-IN | 255.0 | 5  | RCVRY. GND  | 125.0 |
-| 6  | AWACS TACTICAL | 259.0 | 6  | RCVRY. TWR  | 121.0 |
-| 7  | ATIS           | 262.0 | 7  | RCVRY. APP  | 141.0 |
-| 8  | ALT. GND       |       | 8  | ALT. GND    | 128.0 |
-| 9  | ALT. TWR       |       | 9  | ALT. TWR    | 126.0 |
-| 10 | ALT APP        |       | 10 | ALT. APP    | 133.0 |
-| 11 |                |       | 11 | ATIS        | 130.0 |
-| 12 |                | 269.0 | 12 |             | 139.0 |
-| 13 | TANKER         | 268.0 | 13 | GUARD       | 140.0 |
-| 14 | TANKER         |       | 14 | COMMON      | 131.0 |
-| 15 | TANKER         |       | 15 | INTERFLIGHT | 134.0 |
-| 16 | TANKER         |       | 16 | INTERFLIGHT | 134.0 |
-| 17 |                |       | 17 | INTERFLIGHT | 134.0 |
-| 18 |                |       | 18 | INTERFLIGHT | 134.0 |
-| 19 |                |       | 19 | INTERFLIGHT | 134.0 |
+|    |   AN/ARC-182   |       |    | AN/ARC-159  |       |
+|:----:|:----------------:|:-------:|:----:|:-------------:|:-------:|
+|`CH`|   `AGENCY`     | `FREQ` |`CH`| `AGENCY`    | `FREQ` |
+| 1  | BASE OPS       | 251.0 | 1  |             | 108.0 |
+| 2  | GND            | 327.0 | 2  | DEPT. GND   | 258.0 |
+| 3  | TWR            | 327.0 | 3  | DEPT. TWR   | 260.0 |
+| 4  | DEP/APP        | 327.0 | 4  | DEPT. APP   | 270.0 |
+| 5  | AWACS CHECK-IN | 255.0 | 5  | RCVRY. GND  | 255.0 |
+| 6  | AWACS TACTICAL | 259.0 | 6  | RCVRY. TWR  | 259.0 |
+| 7  | ATIS           | 262.0 | 7  | RCVRY. APP  | 262.0 |
+| 8  | ALT. GND       | 327.0 | 8  | ALT. GND    | 132.55|
+| 9  | ALT. TWR       | 327.0 | 9  | ALT. TWR    | 132.55|
+| 10 | ALT APP        | 327.0 | 10 | ALT. APP    | 132.55|
+| 11 |                | 267.0 | 11 | ATIS        | 267.0 |
+| 12 |                | 254.0 | 12 |             | 254.0 |
+| 13 | TANKER         | 264.0 | 13 | GUARD       | 264.0 |
+| 14 | TANKER         | 266.0 | 14 | COMMON      | 266.0 |
+| 15 | TANKER         | 265.0 | 15 | INTERFLIGHT | 265.0 |
+| 16 | TANKER         | 252.0 | 16 | INTERFLIGHT | 252.0 |
+| 17 |                | 268.0 | 17 | INTERFLIGHT | 268.0 |
+| 18 |                | 269.0 | 18 | INTERFLIGHT | 269.0 |
+| 19 |                | 268.0 | 19 | INTERFLIGHT | 268.0 |
 | 20 | GUARD          | 269.0 | 20 |             | 134.0 |
 
 
