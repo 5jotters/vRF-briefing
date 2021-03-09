@@ -9,7 +9,7 @@ Blue forces will execute different specific missions, such as air interdiction, 
  
 ~~The Red force threats includes other human virtual fighter pilots flying as agressors that try to replicate the tactics and techniques of potential adversaries to Blue forces.~~
 ### UPDATE.
-vTLP staff has decided to introduce the following changes:
+vRF staff has decided to introduce the following changes:
 - vRF will be developed using [DCS Liberation](https://github.com/Khopa/dcs_liberation/wiki/Getting-started) dynamic campaign engine.
 - Red flights will not include human pilots as result. OPFOR will managed completely by the DCS Liberation engine. 
 
