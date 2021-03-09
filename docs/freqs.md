@@ -16,11 +16,11 @@
 | 12 |                | 254.0 | 12 |             | 254.0 |
 | 13 | TANKER         | 264.0 | 13 | GUARD       | 264.0 |
 | 14 | TANKER         | 266.0 | 14 | COMMON      | 266.0 |
-| 15 | TANKER         | 265.0 | 15 | INTERFLIGHT | 265.0 |
-| 16 | TANKER         | 252.0 | 16 | INTERFLIGHT | 252.0 |
-| 17 |                | 268.0 | 17 | INTERFLIGHT | 268.0 |
-| 18 |                | 269.0 | 18 | INTERFLIGHT | 269.0 |
-| 19 |                | 268.0 | 19 | INTERFLIGHT | 268.0 |
+| 15 | TANKER         | 265.0 | 15 | INTERFLIGHT#1 | 265.0 |
+| 16 |                | 252.0 | 16 | INTERFLIGHT#2 | 252.0 |
+| 17 |                | 268.0 | 17 | INTERFLIGHT#3 | 268.0 |
+| 18 |                | 269.0 | 18 | INTERFLIGHT#4 | 269.0 |
+| 19 |                | 268.0 | 19 | INTERFLIGHT#5 | 268.0 |
 | 20 | GUARD          | 269.0 | 20 |             | 269.0 |
 
 
