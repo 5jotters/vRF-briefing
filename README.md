@@ -68,7 +68,9 @@ The optimum composition of a COMAO course is as follows:
 - COMAO Planning Exercise 4
 
 
-## Important documents for aircrews
+## Important software and documents for aircrews
+* [Software](./docs/software.md)
+
 * [Applications](./docs/external.md)
 
 * [Local Procedures](./docs/LocalProcedures.md)
