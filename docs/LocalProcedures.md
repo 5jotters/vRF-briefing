@@ -130,7 +130,7 @@ This is an individual procedure that everybody must accomplish. Please maintain 
 
 ### **ANNEX B. FREQUENCIES**
 
-![](../docs/freqs.md)
+Consult the [vRF frequencies](../docs/freqs.md) page.
 
 ### **ANNEX C. KNEEBOARD**
 
