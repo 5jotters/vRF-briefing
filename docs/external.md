@@ -1,4 +1,5 @@
 # How to participate
+Contact with us in our [Discord channel](https://discord.gg/X3VSvBJv).
 
 ## Application process
 Once the application time period is open, each individual should fill and send the [application form]().

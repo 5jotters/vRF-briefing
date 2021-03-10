@@ -28,21 +28,23 @@
 
 All participants will start up engines stick to each type of aircraft normal procedures. Normally will use this radio setting procedure for ground, taxi, departure/approach and interflight COMMS. All platforms should adhere to the following PRESET plan:
 
-● ATIS: PRESET #1 270.1 UHF, for last weather information updates.
+● ATIS: PRESET #7 270.0 UHF, for last weather information updates.
 
-● GND:  PRESET #2 275.8 UHF/121.8 VHF, for ground control if available.
+● BASE OPS: PRESET #1 327.0 UHF for initial check-in 
+
+● GND:  PRESET #2 327.0 UHF, for ground control if available.
 
 ● TWR:  PRESET #3 327.0 UHF/132.55 VHF for ATC control.
 
-● MAGIC:  PRESET #6 250.0 UHF for GCI control
+● AWACS TACTICAL:  PRESET #6 229.0 UHF for GCI control
 
-● ARCO (SOUTHERN TANKER KC-135MPRS):  PRESET #12 269.0 UHF
+● ARCO (SOUTHERN TANKER KC-135MPRS):  PRESET #13, FREQ. according to COMMCARD
 
-● TEXACO (NORTHERN TANKER KC-135):    PRESET #13 268.0 UHF
+● TEXACO (NORTHERN TANKER KC-135):    PRESET #14 FREQ. according to COMMCARD
 
 ● INTERFLIGHT: PRESET VHF #X, according to the assigned frequency in the COMMCARD
 
-All formations will request weather info on ATIS 270.100. If ground control is available, Taxi will be requested in GND frequency. Otherwise, TWR frequency will be used for taxi and departure.
+All formations will request weather info on ATIS 270.000. If ground control is available, Taxi will be requested in GND frequency. Otherwise, TWR frequency will be used for taxi and departure.
 
 
 ### 2.  **TAXI**
@@ -54,7 +56,7 @@ When leader starts taxing will communicate in interflight freq: "Spartan 1, taxi
 
 All formations will hold the active arming zone waiting their respective take off times. In the South EOR south of taxiway Alpha, park in the most southern slot available and fill to the north. In the South EOR north of taxiway Alpha, park in the most northern slot available and fill to the south.
 
-![](../Images/NellisAFB.png)
+![](../Images/NellisAFB.jpg)
 
 ### 3.  **DEPARTURE**
 
@@ -75,7 +77,7 @@ After Take Off, ATC controller will clear the formations to change to either the
 
 ### 4.  **ROUTE**
 
-After departure all formations will proceed to  waypoints A1: HEREM,  B2: JUNNO and reaching C3:AAR at FL200 or below. These points are common WPTs for all participants. Waypoint C3 will be also ARCP for formations refueling in southern tanker (ARCO KC-135MPRS AAR SOUTH) FL220, and northern tanker (TEXACO KC-135 NORTH) FL220. 
+After departure all formations will proceed to  waypoints A1: HEREM,  B2: JUNNO and reaching C3:AAR at FL200 or below. These points are common WPTs for all participants. Waypoint C3 will be also ARCP for formations refueling in southern tanker (ARCO KC-135MPRS AAR SOUTH) , and northern tanker (TEXACO KC-135 NORTH). 
 Once with visual contact with tanker, receivers with climb for rejoining and proceed echelon left with tanker.
 
 After refueling, formations will proceed to the assigned Holding/Push WPT, normally WPT 4 (D4) HOLD and WPT 5 (E5) PUSH, at the assigned altitudes. On the way to the holding/push WPTs all formations with contact GCI controller for check-in and tactical flight.
@@ -105,15 +107,17 @@ Landing approach will be done depending on Nellis AFB weather conditions:
 
 ![](../Images/ILS_RWY21.jpg)
 
-
+#### ALTERNATIVE.
+- Alternative airbase for emergencies will be Groom Lake.
+![](../Images/GrommLake.jpg)
 
 ### **ANNEX A. AAR**
 
  Rejoining and communication procedure with tanker as described:
 
- - Drogue aircrafts will proceed to Southern tanker ARCO, PRESET #12 269.0 UHF.
+ - Drogue aircrafts will proceed to Southern tanker ARCO, PRESET #13.
  
- - Boom aircrafts will proceed to Northern tanker TEXACO, PRESET #13 268.0 UHF.
+ - Boom aircrafts will proceed to Northern tanker TEXACO, PRESET #14.
  
  - Each flight leader must pay attention to the comms in order to deconflict with other formations in the vecinities of the tanker.
 
@@ -126,23 +130,11 @@ This is an individual procedure that everybody must accomplish. Please maintain 
 
 ### **ANNEX B. FREQUENCIES**
 
-● ATIS: PRESET #1 270.1 UHF, for last weather information updates.
-
-● GND:  PRESET #2 275.8 UHF/121.8 VHF, for ground control if available.
-
-● TWR:  PRESET #3 327.0 UHF/132.55 VHF for ATC control.
-
-● MAGIC:  PRESET #6 250.0 UHF for GCI control
-
-● ARCO (SOUTHERN TANKER KC-135MPRS):  PRESET #12 269.0 UHF
-
-● TEXACO (NORTHERN TANKER KC-135):    PRESET #13 268.0 UHF
-
-● INTERFLIGHT: PRESET VHF #X, according to the assigned frequency in the COMMCARD
+![](../docs/freqs.md)
 
 ### **ANNEX C. KNEEBOARD**
 
-Charts for kneeboard can be downloaded from [here](https://drive.google.com/file/d/15K-QqFhZUXgYaeWMrcV6Ds45xlRituIQ/view?usp=sharing). Just unzip the files into ``<user>\Saved Games\DCS\Kneeboard\FA-18C_hornet``.
+Charts for kneeboard can be generated using the official Data Card app that can be downloaded from [here](http://foro.gv5js.com/viewtopic.php?f=98&t=2084).
 
 [Back to mainpage](../README.md)
 
