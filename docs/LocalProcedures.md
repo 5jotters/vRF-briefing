@@ -54,7 +54,7 @@ following formation according to the ATO will ask for taxing to holding point of
 
 When leader starts taxing will communicate in interflight freq: "Spartan 1, taxing RWY 05R, QNH 29,90". All wingmen will acknowledge: "Spartan 2, QNH 29,90".
 
-All formations will hold in the active arming zone waiting their respective take off times. SouthWest EOR south of taxiway Alpha will be primary arming zone. Secondary arming zone will SouthEast EOR, west of 03R. In the SouthWest EOR, park in the most southern slot available and fill to the north. In the SouthWest EOR, park in the most eastern slot available and fill to the west.
+All formations will hold in the active arming zone waiting their respective take off times. If rearming is needed, SOUTHWEST EOR south of taxiway Alpha will be the primary arming zone. Secondary arming zone will be the SOUTHEAST EOR, east of 03R. In the SOUTHWEST EOR, park in the most southern slot available and fill to the north. In the SOUTHEAST EOR, park in the most eastern slot available and fill to the west.
 
 ![](../Images/NellisAFB.jpg)
 
@@ -134,7 +134,7 @@ Consult the [Radio frequencies](../docs/freqs.md) page.
 
 ### **ANNEX C. KNEEBOARD**
 
-Charts for kneeboard can be generated using the official Data Card app that can be downloaded from [here](http://foro.gv5js.com/viewtopic.php?f=98&t=2084).
+Data cards for the kneeboard can be generated using our official [GV5Js Datacard Generator](http://foro.gv5js.com/viewtopic.php?f=98&t=2084) app.
 
 [Back to mainpage](../README.md)
 
