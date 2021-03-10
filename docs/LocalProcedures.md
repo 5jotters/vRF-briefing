@@ -54,7 +54,7 @@ following formation according to the ATO will ask for taxing to holding point of
 
 When leader starts taxing will communicate in interflight freq: "Spartan 1, taxing RWY 05R, QNH 29,90". All wingmen will acknowledge: "Spartan 2, QNH 29,90".
 
-All formations will hold the active arming zone waiting their respective take off times. In the South EOR south of taxiway Alpha, park in the most southern slot available and fill to the north. In the South EOR north of taxiway Alpha, park in the most northern slot available and fill to the south.
+All formations will hold in the active arming zone waiting their respective take off times. SouthWest EOR south of taxiway Alpha will be primary arming zone. Secondary arming zone will SouthEast EOR, west of 03R. In the SouthWest EOR, park in the most southern slot available and fill to the north. In the SouthWest EOR, park in the most eastern slot available and fill to the west.
 
 ![](../Images/NellisAFB.jpg)
 
@@ -109,7 +109,7 @@ Landing approach will be done depending on Nellis AFB weather conditions:
 
 #### ALTERNATIVE.
 - Alternative airbase for emergencies will be Groom Lake.
-![](../Images/GrommLake.jpg)
+![](../Images/GroomLake.jpg)
 
 ### **ANNEX A. AAR**
 
@@ -130,7 +130,7 @@ This is an individual procedure that everybody must accomplish. Please maintain 
 
 ### **ANNEX B. FREQUENCIES**
 
-Consult the [vRF frequencies](../docs/freqs.md) page.
+Consult the [Radio frequencies](../docs/freqs.md) page.
 
 ### **ANNEX C. KNEEBOARD**
 
