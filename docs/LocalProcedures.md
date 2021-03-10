@@ -134,7 +134,7 @@ Consult the [Radio frequencies](../docs/freqs.md) page.
 
 ### **ANNEX C. KNEEBOARD**
 
-Charts for kneeboard can be generated using the official Data Card app that can be downloaded from [here](http://foro.gv5js.com/viewtopic.php?f=98&t=2084).
+Data cards for the kneeboard can be generated using our official [GV5Js Datacard Generator](http://foro.gv5js.com/viewtopic.php?f=98&t=2084) app.
 
 [Back to mainpage](../README.md)
 
