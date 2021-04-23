@@ -77,7 +77,7 @@ The optimum composition of a COMAO course is as follows:
 
 * [CombatFlite file for planning](files/vRFCombatFlite.cf)
 
-* [Briefing mission file example](files/briefing.odp)
+* [Briefing mission file example](files/Briefing_vRF.odp)
 
 * [Red Force Doctrine](./docs/RedDoctrine.md)
 
