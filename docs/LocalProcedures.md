@@ -30,7 +30,7 @@ All participants will start up engines stick to each type of aircraft normal pro
 
 ● ATIS: PRESET #7 270.0 UHF, for last weather information updates.
 
-● BASE OPS: PRESET #1 327.0 UHF for initial check-in 
+● BASE OPS: PRESET #1 251.0 UHF for initial check-in 
 
 ● GND:  PRESET #2 327.0 UHF, for ground control if available.
 
