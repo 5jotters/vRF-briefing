@@ -61,7 +61,13 @@ The optimum composition of a COMAO course is as follows:
 - Current operations Briefings
 
 ## Exercises and Practice
-- COMAO Demonstration
+- FAM: familiarization on operating in NTTR. Objectives:
+    - Nellis local procedures
+    - Flex Turnout departure
+    - AAR
+    - PUSH time practice for RTB (ARCOE)
+    - VFR recovery
+    - Touch & go and final full stop landing
 - COMAO Planning Exercise 1
 - COMAO Planning Exercise 2
 - COMAO Planning Exercise 3
